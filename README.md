@@ -47,44 +47,8 @@ and outcomes. This approach not only addresses the current inefficiencies but al
 - Encryption : JWT encryption for secure data transmission
 - Authentication : Google OAuth 2.0 for secure authorization.
 
-# Basic Workflow
-### First 12 Hours:
-1. **Backend Authorization:**
-* Implement user authentication and authorization functionalities on the backend using suitable frameworks or libraries.
-   
-2. **Frontend Authorization:**
-* Develop user authentication and authorization interfaces on the frontend, ensuring seamless integration with the backend.
-* Design and create the homepage of the website on the frontend.
-
-3. **Backend Forgot Password:**
-*  Implement the functionality for users to reset their passwords securely on the backend.
 
 
-### Next 12 Hours:
-1. **Frontend Diagnosis:**
-* Develop the frontend interface for users to upload lab test results and receive immediate diagnosis insights.
-   
-2. **ML Data Models (Partial Implementation):**
-* Train machine learning models on a portion of the dataset to recognize patterns and provide diagnostic predictions.
-   
-3. **Frontend Profile:**
-* Create user profile interfaces on the frontend, allowing users to manage their accounts and view their diagnostic history.
-
-
-### Last 12 Hours:
-1. **Multer Integration (Backend):**
-* Integrate Multer or similar middleware on the backend to handle file uploads securely.
-
-
-2. **Integration of ML Models:**
-* Integrate trained machine learning models with the backend to enable automated diagnosis of uploaded lab test result images.
-
-
-3. **Integration of Frontend and Backend:**
-* Ensure seamless communication and integration between the frontend and backend components of the website.
-* Conduct thorough testing to identify and resolve any bugs or issues.
-   
-By following this structured workflow, our team aims to efficiently develop and integrate the key functionalities of the project within the 36-hour timeframe, ensuring a cohesive and functional digital platform for streamlined healthcare diagnostics.
 
 
 ```mermaid
